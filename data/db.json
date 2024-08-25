@@ -1,0 +1,35 @@
+{
+  "keyPhrase": {
+    "keyPhrase": "s"
+  },
+  "films": [
+    {
+      "id": "1",
+      "title": "Titanic",
+      "shortText": "American feature film from 1997, based on a historical event - the sinking of the Titanic in 1912",
+      "text": "Titanic - an American feature film from 1997, based on a historical event - the sinking of the Titanic in 1912. It was directed by James Cameron based on his own script. The production was undertaken by 20th Century Fox, Paramount Pictures and Lightstorm Entertainment.",
+      "link": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/313C9883C0085FB412D28656A3CC37DCDC46BC11032FD7D5FC61F475FDD86BED/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp"
+    },
+    {
+      "id": "12",
+      "title": "Race Against Time",
+      "shortText": "Race Against Time is a 2011 American film directed by Andrew Niccol.",
+      "text": "In the society of the future, time is the currency. The richest, i.e. the young, healthy and beautiful, can live for thousands of years, while the poor wake up every morning with a dozen or so hours at their disposal.",
+      "link": "https://film.org.pl/wp-content/uploads/2021/01/wyscig-z-czasem.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "0ab9b59f-cfad-4ba0-bb9c-98ecff0b8803",
+      "postID": "12",
+      "author": "Oskar",
+      "comment": "wyscig z czasem\n"
+    },
+    {
+      "id": "d1e25709-01cb-499c-8c48-b1867ce4a96c",
+      "postID": "1",
+      "author": "Oskar",
+      "comment": "titanic"
+    }
+  ]
+}
